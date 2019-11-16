@@ -1,1 +1,1 @@
-# google-homepage
+# google-homepage The purpose of this project is to create a suface page that appears to mirror the google homepage but not necessarily function like it..at least not at this point in the project.  From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
